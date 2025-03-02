@@ -7,7 +7,7 @@ The dataset consists of facial images categorized into 7 emotion classes:
 
 The dataset is divided into train and test folders.
 Images are resized to 96x96 pixels for better accuracy.
-📌 Features
+📌 Features:
 ✔️ Uses MobileNetV2 for efficient and fast training.
 ✔️ Data Augmentation applied for improved generalization.
 ✔️ Trained in Google Colab using a GPU (Tesla T4 or P100).
